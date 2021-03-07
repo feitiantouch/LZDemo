@@ -1,0 +1,27 @@
+{
+  "name": "MTRULogining",
+  "version": "0.1.0",
+  "summary": "A short description of MTRULogining.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/feitian/MTRULogining",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "feitian": "1758871158@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/feitian/MTRULogining.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MTRULogining/Classes/**/*",
+  "dependencies": {
+    "TRUNetworking": [
+
+    ]
+  }
+}

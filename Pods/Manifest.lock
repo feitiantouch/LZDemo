@@ -1,0 +1,22 @@
+PODS:
+  - MTRULogining (0.1.0):
+    - TRUNetworking
+  - TRUNetworking (0.1.0)
+
+DEPENDENCIES:
+  - MTRULogining (from `Lib/MTRULogining`)
+  - TRUNetworking (from `Lib/TRUNetworking`)
+
+EXTERNAL SOURCES:
+  MTRULogining:
+    :path: Lib/MTRULogining
+  TRUNetworking:
+    :path: Lib/TRUNetworking
+
+SPEC CHECKSUMS:
+  MTRULogining: 78f6755c4503ab57856f3ac89b8eade6e99a275e
+  TRUNetworking: ddcf79ff428956bf105e2d63d118b028c9df8778
+
+PODFILE CHECKSUM: ad28ab361512ce051d473ab2628b3f30a56d6f80
+
+COCOAPODS: 1.10.1

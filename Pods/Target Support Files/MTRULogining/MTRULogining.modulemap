@@ -1,0 +1,6 @@
+framework module MTRULogining {
+  umbrella header "MTRULogining-umbrella.h"
+
+  export *
+  module * { export * }
+}
